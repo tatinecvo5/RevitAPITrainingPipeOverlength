@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITraining\RevitAPITrainingPipeOverlength.dll"</Assembly>
+		<AddInId>67CE6177-CAD1-4A06-B035-3F5780AE3625</AddInId>
+		<FullClassName>RevitAPITrainingPipeOverlength.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Длина с запасом 10%</Text>
+	</AddIn>
+</RevitAddIns>
